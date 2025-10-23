@@ -57,6 +57,5 @@ Replicar el modelo en PyTorch.
 - Explorar el impacto de la cantidad de neuronas en las capas recurrentes.  
 - Mostrar 5 ejemplos de traducciones generadas.  
 Replicar y extender el traductor:  
-- Replicar el modelo en PyTorch.  
 
 📘 [Colab Desafío 4](Desafio_4/Desafio_4.ipynb)
