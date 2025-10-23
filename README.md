@@ -59,4 +59,4 @@ Replicar el modelo en PyTorch.
 Replicar y extender el traductor:  
 - Replicar el modelo en PyTorch.  
 
-📘 [Colab Desafío 4](https://colab.research.google.com/drive/1U0BlhTdvowjnOSsm5ahEzNGyljD8MzIp#scrollTo=RHNkUaPp6aYq)
+📘 [Colab Desafío 4](Desafio_4/Desafio_4.ipynb)
